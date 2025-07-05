@@ -26,6 +26,6 @@ int main()
     
     for(int i=0; i<index; i++)
     {
-        printf("%d", i);
+        printf("%d", arr[i]);
     }
 }
